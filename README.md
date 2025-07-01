@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a sophomore @ Department of Electronic Engineering<!--Dushi College-->, Tsinghua University.
+![](https://komarev.com/ghpvc/?username=Ador-N)<br>
+
+I'm a sophomore @ Dushi College, Tsinghua University.
 
 ### Metrics
 
